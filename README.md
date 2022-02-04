@@ -1,4 +1,4 @@
-## About Me
+## About me
 
 - SungKyunKwan University, Department of Computer Science and Engineering
 - Software Developer
@@ -7,7 +7,7 @@
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="html5" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 
-## Problem Solving
+## Problem solving
 
 - BOJ - [shjohw12](https://www.acmicpc.net/user/shjohw12)
 - solved.ac - [shjohw12](https://solved.ac/profile/shjohw12)
