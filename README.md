@@ -20,7 +20,7 @@
 [![Badge](https://cp-logo.vercel.app/codeforces/shjohw12?logo=true)](https://codeforces.com/profile/shjohw12)
 [![Badge](https://cp-logo.vercel.app/atcoder/shjohw12?logo=true)](https://atcoder.jp/users/shjohw12)
 
-- 2021 ICPC Seoul Regional 17th place - [Team tomathtomathto](http://static.icpckorea.net/2021/scoreboard_regional/)
+- 17th place @ 2021 ICPC Seoul Regional - [Team tomathtomathto](http://static.icpckorea.net/2021/scoreboard_regional/)
 
 ## Blog
 I usually post an article about problem solving.
