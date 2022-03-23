@@ -8,7 +8,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shjohw12)](https://solved.ac/profile/shjohw12)
 
-[![Badge](https://cp-logo.vercel.app/codeforces/shjohw12?logo=true)](https://codeforces.com/profile/kimchiwarrior)
+[![Badge](https://cp-logo.vercel.app/codeforces/kimchiwarrior?logo=true)](https://codeforces.com/profile/kimchiwarrior)
 [![Badge](https://cp-logo.vercel.app/atcoder/shjohw12?logo=true)](https://atcoder.jp/users/shjohw12)
 
 - 17th place @ 2021 ICPC Seoul Regional - [Team tomathtomathto](http://static.icpckorea.net/2021/scoreboard_regional/)
